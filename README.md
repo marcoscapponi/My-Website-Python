@@ -1,10 +1,34 @@
-Proyecto Final Python
-Introduccion: En este proyecto veremos un blog personal, a modo de curriculum vitae, donde navegando por la paginas podremos ver los estudios que realizo, los lugares en los que trabaje y mas sobre mi vida personalmente.
-El proyecto se separa en 4 carpetas: appFianl, media, proyectoFinal, proyectofinalentornovirtual, una base de datos: db.sqlite3 y un archivo manage.py (funciona de interfaz de linea de comandos donde podras interactuar
-con el proyecto de diversas maneras.
-appFinal: en esta carpeta se desarrollan todas las vistas, los templates, los statics, el archivo de las vistas, el archivo de modelos, el de los formularios, el de admin, apps, tests y urls.
-media: en la carpeta media guardaremos las imagenes de los avatares utilizados.
-proryectofinal: aqui tendremos con mayor importancia el archivo settings con una funcion fundamentwal en el funcionamiento de la aplicacion.
-proyectofinalentornovirtual: ofrece aislamiento de dependencias, facilidad para colaborar, control de paquetes y dependencias, reproducibilidad, despliegue, compatibilidad y pruebas.
-manage.py: ejecuta el servidor de desarrollo, migraciones de base de datos, crear superusuario, ejecuta el shell de django, ejecuta pruebas, crea aplicaciones django, variables de entorno y comandos personalizados.
-Tecnologias utilizadas: Python, Django, Html, Css, JavaScript.
+Introduction
+
+This project presents a personal blog designed as a curriculum vitae. By navigating through the different pages, users can explore the academic background, professional experience, and personal information of the author.
+
+The project is structured into four main directories: appFinal, media, proyectoFinal, and proyectofinalentornovirtual, along with a database file (db.sqlite3) and a manage.py file. The manage.py file functions as a command-line interface that allows interaction with the project in multiple ways.
+
+Project Structure
+
+appFinal
+This directory contains the core application logic, including views, templates, static files, views configuration, models, forms, admin configuration, apps, tests, and URL routing.
+
+media
+The media directory stores the avatar images used within the application.
+
+proyectoFinal
+This directory includes essential project configuration files, most notably the settings.py file, which plays a fundamental role in the application’s functionality.
+
+proyectofinalentornovirtual
+This directory represents the virtual environment, providing dependency isolation, ease of collaboration, package and dependency management, reproducibility, deployment support, compatibility, and testing capabilities.
+
+manage.py
+This file is used to run the development server, perform database migrations, create superusers, access the Django shell, execute tests, create Django applications, manage environment variables, and run custom commands.
+
+Technologies Used
+
+Python
+
+Django
+
+HTML
+
+CSS
+
+JavaScript
