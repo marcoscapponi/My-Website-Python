@@ -21,14 +21,9 @@ This directory represents the virtual environment, providing dependency isolatio
 manage.py
 This file is used to run the development server, perform database migrations, create superusers, access the Django shell, execute tests, create Django applications, manage environment variables, and run custom commands.
 
-Technologies Used
-
-Python
-
-Django
-
-HTML
-
-CSS
-
-JavaScript
+Technologies Used:
+-Python
+-Django
+-HTML
+-CSS
+-JavaScript
